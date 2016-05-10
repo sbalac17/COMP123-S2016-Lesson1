@@ -10,7 +10,8 @@ namespace COMP123_S2016_Lesson1
     {
         static void Main(string[] args)
         {
-          
+            HelloWorldToConsole();
+
         }
         public static string HelloWorldToConsole()
         {
