@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace COMP123_S2016_Lesson1
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -15,7 +15,7 @@ namespace COMP123_S2016_Lesson1
         }
         public static string HelloWorldToConsole()
         {
-            string HelloWorldString = "Hello, World";
+            string HelloWorldString = "Hello, World!";
             Console.WriteLine(HelloWorldString);
             return HelloWorldString;
 
