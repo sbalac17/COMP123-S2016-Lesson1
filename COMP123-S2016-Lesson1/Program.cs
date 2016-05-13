@@ -11,6 +11,12 @@ using System.Threading.Tasks;
  *  Made public so it is accessible in code/github. 
  *  
  * Calling HelloWorldToConsole in the main */
+/**
+ * Prints a HelloWorld message to the console and returns the same message
+ * 
+ * @method HelloWorldToConsole
+ * @return {string} Returns the displayed message
+ * */
 
 namespace COMP123_S2016_Lesson1
 {
